@@ -2,3 +2,4 @@ TODO.txt
 dataset/
 backup/
 git_commands.txt
+__pycache__/
