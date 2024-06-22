@@ -3,3 +3,4 @@ dataset/
 backup/
 git_commands.txt
 __pycache__/
+SavedModels/modelsTooBig/
