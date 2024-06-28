@@ -1,0 +1,10 @@
+for 239203 predictions:
+Model ANN1.keras took 11031250000 ns = 46116.68749973871 ns/pred
+Model RNN.pkl took 18531250000 ns = 77470.80931259223 ns/pred
+Model CNN1.pkl took 26250000000 ns = 109739.42634498731 ns/pred
+Model DT.pkl took 1953125000 ns = 8165.135888763937 ns/pred
+Model RF1.pkl took 7421875000 ns = 31027.51637730296 ns/pred
+Model KNNC1.pkl took 378828125000 ns = 1583709.7569846532 ns/pred
+Model Lin-SVC.pkl took 1468750000 ns = 6140.182188350481 ns/pred
+Model LR.pkl took 1500000000 ns = 6270.824362570704 ns/pred
+Model SGDC.pkl took 1312500000 ns = 5486.971317249366 ns/pred
