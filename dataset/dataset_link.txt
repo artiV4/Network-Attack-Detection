@@ -1,3 +1,11 @@
 Dataset link-> 
 	https://www.unb.ca/cic/datasets/iotdataset-2023.html
 E. C. P. Neto, S. Dadkhah, R. Ferreira, A. Zohourian, R. Lu, A. A. Ghorbani. "CICIoT2023: A real-time dataset and benchmark for large-scale attacks in IoT environment," Sensor (2023) – (submitted to Journal of Sensors).
+
+
+Encrypted traffic -> 
+	https://iotanalytics.unsw.edu.au/attack-data.html
+Hamza, A., Habibi Gharakheili, H., Benson, T. A., and Sivaraman, V. , “ Detecting Volumetric Attacks on LoT Devices via SDN-Based Monitoring of MUD Activity ” , Proc. ACM SOSR, San Jose, CA, USA, Apr, 2019. DOI: 10.1145/3314148.3314352
+
+Converted to csv ->
+	https://drive.google.com/file/d/1zBMwfxqZTcxrK_zLeLOSWdWvaBYK3pFv/view?usp=drive_link
