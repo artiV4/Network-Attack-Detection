@@ -1,4 +1,3 @@
 Detection and Classification of Network Attacks using various Machine Learning models
 
-So far have a 98% accuracy model using tensorflow keras ANN 
-and a 99% accuracy model using SciKit Random Forest
+Models were trained on 2 types of data, features regarding traffic flows, and features regarding individual packets. For the flow-based training, the decision tree model  Achieved the highest performance with an average accuracy of 99.38\%, precision of 99.39\%, recall of 99.00\%, and F1 score of 99.38\%. This model's superior performance shows its robustness in handling the broader contextual information provided by per flow features. Close contenders were the random forest and RNN with accuracies of 90.19\%. As for the packet-based training, the best model was the random forest with an average accuracy of 86.72\%, precision of 86.02\%, recall of 86.72\%, and F1 score of 86.19\%.
